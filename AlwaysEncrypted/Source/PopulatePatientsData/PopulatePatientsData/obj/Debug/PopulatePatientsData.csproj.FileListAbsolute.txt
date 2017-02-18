@@ -1,0 +1,15 @@
+C:\Future Decoded\AlwaysEncrypted\Source\PopulatePatientsData\PopulatePatientsData\bin\Debug\PopulatePatientsData.exe.config
+C:\Future Decoded\AlwaysEncrypted\Source\PopulatePatientsData\PopulatePatientsData\bin\Debug\PopulatePatientsData.exe
+C:\Future Decoded\AlwaysEncrypted\Source\PopulatePatientsData\PopulatePatientsData\bin\Debug\PopulatePatientsData.pdb
+C:\Future Decoded\AlwaysEncrypted\Source\PopulatePatientsData\PopulatePatientsData\obj\Debug\PopulatePatientsData.csprojResolveAssemblyReference.cache
+C:\Future Decoded\AlwaysEncrypted\Source\PopulatePatientsData\PopulatePatientsData\obj\Debug\PopulatePatientsData.Properties.Resources.resources
+C:\Future Decoded\AlwaysEncrypted\Source\PopulatePatientsData\PopulatePatientsData\obj\Debug\PopulatePatientsData.csproj.GenerateResource.Cache
+C:\Future Decoded\AlwaysEncrypted\Source\PopulatePatientsData\PopulatePatientsData\obj\Debug\PopulatePatientsData.exe
+C:\Future Decoded\AlwaysEncrypted\Source\PopulatePatientsData\PopulatePatientsData\obj\Debug\PopulatePatientsData.pdb
+C:\Future Decoded\AlwaysEncrypted\Source\PopulatePatientsData\PopulatePatientsData\obj\Debug\PopulatePatientsData.fromPatient.resources
+C:\Future Decoded\AlwaysEncrypted\Source\PopulatePatientsData\PopulatePatientsData\bin\Debug\DataAccessLibrary.dll
+C:\Future Decoded\AlwaysEncrypted\Source\PopulatePatientsData\PopulatePatientsData\bin\Debug\DataAccessLibrary.pdb
+C:\Future Decoded\AlwaysEncrypted\Source\PopulatePatientsData\PopulatePatientsData\bin\Debug\Commons.dll
+C:\Future Decoded\AlwaysEncrypted\Source\PopulatePatientsData\PopulatePatientsData\bin\Debug\Newtonsoft.Json.dll
+C:\Future Decoded\AlwaysEncrypted\Source\PopulatePatientsData\PopulatePatientsData\bin\Debug\Commons.pdb
+C:\Future Decoded\AlwaysEncrypted\Source\PopulatePatientsData\PopulatePatientsData\bin\Debug\Newtonsoft.Json.xml

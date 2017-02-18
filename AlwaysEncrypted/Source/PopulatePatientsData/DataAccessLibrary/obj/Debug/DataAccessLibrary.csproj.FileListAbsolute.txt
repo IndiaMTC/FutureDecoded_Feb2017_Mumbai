@@ -1,0 +1,9 @@
+C:\Future Decoded\AlwaysEncrypted\Source\PopulatePatientsData\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+C:\Future Decoded\AlwaysEncrypted\Source\PopulatePatientsData\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+C:\Future Decoded\AlwaysEncrypted\Source\PopulatePatientsData\DataAccessLibrary\obj\Debug\DataAccessLibrary.csprojResolveAssemblyReference.cache
+C:\Future Decoded\AlwaysEncrypted\Source\PopulatePatientsData\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+C:\Future Decoded\AlwaysEncrypted\Source\PopulatePatientsData\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb
+C:\Future Decoded\AlwaysEncrypted\Source\PopulatePatientsData\DataAccessLibrary\bin\Debug\Commons.dll
+C:\Future Decoded\AlwaysEncrypted\Source\PopulatePatientsData\DataAccessLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Future Decoded\AlwaysEncrypted\Source\PopulatePatientsData\DataAccessLibrary\bin\Debug\Commons.pdb
+C:\Future Decoded\AlwaysEncrypted\Source\PopulatePatientsData\DataAccessLibrary\bin\Debug\Newtonsoft.Json.xml

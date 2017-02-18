@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AlwaysEncrypted">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-H5SH1E5:DESKTOP-H5SH1E5\Admin">
+          <Created>2017-02-17T20:16:31.9983967-08:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-H5SH1E5</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>Clinic</InitialDB>
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName />
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="AdminTryingToGetData.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-H5SH1E5:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-H5SH1E5</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>AdminTryingToGetData.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DB_Clinic.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-H5SH1E5:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-H5SH1E5</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DB_Clinic.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Proc_Ins_Patients.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-H5SH1E5:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-H5SH1E5</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Proc_Ins_Patients.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Stretch_Patients.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-H5SH1E5:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-H5SH1E5</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Stretch_Patients.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Tab_Patients.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-H5SH1E5:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-H5SH1E5</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Tab_Patients.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

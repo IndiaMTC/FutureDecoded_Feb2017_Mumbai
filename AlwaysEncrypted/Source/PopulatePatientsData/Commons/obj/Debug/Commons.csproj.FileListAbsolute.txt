@@ -1,0 +1,5 @@
+C:\Future Decoded\AlwaysEncrypted\Source\PopulatePatientsData\Commons\bin\Debug\Commons.dll
+C:\Future Decoded\AlwaysEncrypted\Source\PopulatePatientsData\Commons\bin\Debug\Commons.pdb
+C:\Future Decoded\AlwaysEncrypted\Source\PopulatePatientsData\Commons\obj\Debug\Commons.csprojResolveAssemblyReference.cache
+C:\Future Decoded\AlwaysEncrypted\Source\PopulatePatientsData\Commons\obj\Debug\Commons.dll
+C:\Future Decoded\AlwaysEncrypted\Source\PopulatePatientsData\Commons\obj\Debug\Commons.pdb
